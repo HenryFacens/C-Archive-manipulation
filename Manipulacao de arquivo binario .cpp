@@ -129,7 +129,9 @@ void cadastra_pessoas(pessoas *p,int count)
 	printf("\n\nDeseja Cadastrar outra pessoa ?");
 	scanf("%c",&op);
 	fflush(stdin);
-	
+	printf("N");
+	scanf("%c",&op);
+	fflush(stdin);
 	
 	}while(op != 'n' && op != 'N');
 		
