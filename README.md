@@ -1,4 +1,4 @@
-# - TESTE ALEATORIOS - 
+# - TESTE ALEATORIOS -
 
 <p>FACENS - ESTRUTURADA </p>
 Learning git and github
